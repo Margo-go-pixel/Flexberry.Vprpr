@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-vprpr-new-class2-e",
+  "editForm": "i-i-s-vprpr-new-class2-e",
+  "external": false,
+  "caption": "New class2",
+  "name": "IISVprprNewClass2L",
+  "className": "NewClass2L",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-vprpr-new-class2",
+      "modelProjection": "NewClass2L"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+﻿{
+  "applicationCaption": "Vprpr",
+  "applicationTitle": "Vprpr",
+  "items": [
+    {
+      "link": null,
+      "menuName": "vprpr",
+      "caption": "Vprpr",
+      "title": "Vprpr",
+      "children": [
+        {
+          "link": "i-i-s-vprpr-должность-l",
+          "menuName": null,
+          "caption": "Должность",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-vprpr-new-class2-l",
+          "menuName": null,
+          "caption": "New class2",
+          "title": "",
+          "children": null
+        }
+      ]
+    }
+  ],
+  "mobile": true
+}
